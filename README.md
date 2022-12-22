@@ -1,5 +1,5 @@
 ## **TASK**
-*Analyze part of the specification and write test cases for it (test cases created in QASE)*
+### 📝 *Analyze part of the specification and write test cases for it (test cases created in QASE)*
 
 ***Specification:***
 
