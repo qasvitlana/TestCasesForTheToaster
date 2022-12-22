@@ -1,6 +1,6 @@
 ## **TASK**
 *Analyze part of the specification and write test cases for it (test cases created in QASE)*
-___
+
 ***Specification:***
 
 + When server response 403 to api/v1/getAnswer a new toaster with error deatails should appear
