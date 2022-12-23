@@ -16,7 +16,7 @@ ___
 3. Where is the button “close” exactly situated (on the right, left or center of the
 toaster)?
 4. What color is the button “close”? What fonts are used?
-5. Whatdoestheuserseeonthescreenafterclosingthetoaster?Wheredoesit
+5. What does the user see on the screen after closing the toaster? Where does it
 redirect us after closing the toaster?
 6. What happens to the background of the application when the toaster
 appears?
